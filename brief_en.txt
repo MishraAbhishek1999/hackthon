@@ -1,0 +1,37 @@
+TO: BMC Officer, Durga Visarjan 20 October 2026
+SUBJECT: Ghat Watch - which Bhopal ghats need attention first
+
+Based on MPPCB readings 2023-2025 measured against CPCB Class B bathing limits (DO >= 5 mg/l, BOD <= 3 mg/l, pH 6.5-8.5). Coliform was not scored: the ghat-level reports contain no coliform results.
+
+PRIORITY ORDER:
+1. Bairagarh (Sant Hirdaram) kund - MEDIUM (55/100)
+2. Malikhedi kund - MEDIUM (42/100)
+3. Shahpura lake ghat - MEDIUM (36/100)
+4. Rani Kamlapati ghat / Kamla Park kund - LOWER (34/100)
+5. Khatlapura ghat - LOWER (33/100)
+6. Hathaikheda dam / kund - LOWER (30/100)
+7. Prempura ghat - LOWER (23/100)
+
+1. Bairagarh (Sant Hirdaram) kund (Upper Lake)
+   - Oxygen (DO) was below the safe 5 mg/l in 11 of 13 readings; lowest 0 mg/l (2023 Ganesh, post-immersion, [MPPCB 2023 idol immersion report (PDF) p.26 bhopal_ghats_extracted.csv row 7]).
+   - DO hit 0 mg/l on 4 occasion(s) - no fish can survive.
+   - BOD (pollution load) above the 3 mg/l limit in 13 of 13 readings; highest 14 mg/l (2024 Ganesh, post-immersion, [MPPCB 2024 idol immersion report (PDF) p.69 bhopal_ghats_extracted.csv row 70]).
+   - Heavy metals detected: Chromium, Lead, Zinc, Copper - often from idol paints. Above the reference level for: Chromium, Lead, Copper. (2024 Ganesh, post-immersion, [MPPCB 2024 idol immersion report (PDF) p.69 bhopal_ghats_extracted.csv row 70])
+   Action: Re-test before immersion; push eco-friendly idols; keep watch on DO and BOD; sample after immersion.
+
+2. Malikhedi kund (Kund)
+   - Oxygen (DO) was below the safe 5 mg/l in 9 of 13 readings; lowest 0.6 mg/l (2025 Ganesh, during-immersion, [MPPCB 2025 idol immersion report (PDF) p.2 bhopal_ghats_extracted.csv row 102]).
+   - BOD (pollution load) above the 3 mg/l limit in 11 of 13 readings; highest 16.8 mg/l (2023 Ganesh, post-immersion, [MPPCB 2023 idol immersion report (PDF) p.27 bhopal_ghats_extracted.csv row 19]).
+   - Heavy metals detected: Chromium, Lead, Zinc, Copper - often from idol paints. Above the reference level for: Chromium, Lead, Copper. (2024 Ganesh, during-immersion, [MPPCB 2024 idol immersion report (PDF) p.71 bhopal_ghats_extracted.csv row 81])
+   - Average BOD rose from 5.4 to 7.0 mg/l during/after immersion.
+   Action: Re-test before immersion; push eco-friendly idols; keep watch on DO and BOD; sample after immersion.
+
+3. Shahpura lake ghat (Shahpura Lake)
+   - Oxygen (DO) was below the safe 5 mg/l in 5 of 18 readings; lowest 2.5 mg/l (2025 Durga, pre-immersion, [MPPCB 2025 idol immersion report (PDF) p.38 bhopal_ghats_extracted.csv row 119]).
+   - BOD (pollution load) above the 3 mg/l limit in 18 of 18 readings; highest 11.6 mg/l (2024 Durga, post-immersion, [MPPCB 2024 idol immersion report (PDF) p.26 bhopal_ghats_extracted.csv row 61]).
+   - Heavy metals detected: Chromium, Lead, Zinc, Copper - often from idol paints. Above the reference level for: Chromium, Lead, Copper. (2024 Ganesh, post-immersion, [MPPCB 2024 idol immersion report (PDF) p.72 bhopal_ghats_extracted.csv row 85])
+   - Average BOD rose from 6.7 to 8.7 mg/l during/after immersion.
+   Action: Re-test before immersion; push eco-friendly idols; keep watch on DO and BOD; sample after immersion.
+
+Note: Rani Kamlapati ghat is 'Kamla Park kund' in Ganesh tables and 'Lower Lake ghat' in Durga tables; the match is medium-confidence.
+Scores are relative priorities, not a legal finding. Every figure is traceable to the source file/page shown in brackets.
